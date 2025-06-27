@@ -4,6 +4,8 @@
 <p align="center">
     📖 <a href="README.md">English</a> •
     <a>中文</a>
+    <br>
+    🤗 <a href="https://huggingface.co/datasets/tencent/C3-BenchMark">Dataset</a>
 </p>
 
 
@@ -27,7 +29,7 @@
 
 ## 😊 Key Materials
 
-- 测试数据地址：c3_bench/data/C3-Bench.jsonl
+- 测试数据地址：c3_bench/data/C3-Bench.jsonl 或 🤗 <a href="https://huggingface.co/datasets/tencent/C3-BenchMark">Dataset</a>
 - 更多关于 C3-Bench 的详细信息可以在下文中获取
 
 ## ⚡️ Quickstart

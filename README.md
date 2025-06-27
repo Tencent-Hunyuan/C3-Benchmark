@@ -4,6 +4,8 @@
 <p align="center">
     📖 <a>English</a> •
     <a href="README_ZH.md">中文</a>
+    <br>
+    🤗 <a href="https://huggingface.co/datasets/tencent/C3-BenchMark">Dataset</a>
 </p>
 
 
@@ -25,7 +27,7 @@ In essence, C^3-Bench aims to expose model vulnerabilities through these challen
 
 ## 😊 Key Materials
 
-- Test data location: c3_bench/data/C3-Bench.jsonl
+- Test data location: c3_bench/data/C3-Bench.jsonl or 🤗 <a href="https://huggingface.co/datasets/tencent/C3-BenchMark">Dataset</a>
 - More detailed information about the C3-Bench can be found below
 
 ## ⚡️ Quickstart
