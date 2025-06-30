@@ -5,7 +5,8 @@
     📖 <a href="README.md">English</a> •
     <a>中文</a>
     <br>
-    🤗 <a href="https://huggingface.co/datasets/tencent/C3-BenchMark">Dataset</a>
+    🤗 <a href="https://huggingface.co/datasets/tencent/C3-BenchMark">数据集</a> •
+    📚 <a href="https://arxiv.org/abs/2505.18746">预印版论文</a>
 </p>
 
 
@@ -343,3 +344,14 @@ Planner：getWaifuDetails(image_id=778899)
 ```
 
 需要说明的是，即便我们的框架能够生成这样优秀的真多轮任务，但是真多轮任务生成对LLM来说仍十分困难，因此我们前面提到的通过多位专家人工标注，才将准确率从不足60%提升到100%，这也包括将LLM生成的伪多轮任务修改为真多轮任务。
+
+## 🔎 Citation
+```
+@article{yu2025c3benchthingsrealdisturbing,
+      title={$C^3$-Bench: The Things Real Disturbing LLM based Agent in Multi-Tasking}, 
+      author={Peijie Yu and Yifan Yang and Jinjian Li and Zelong Zhang and Haorui Wang and Xiao Feng and Feng Zhang},
+      year={2025},
+      journal={arXiv preprint arXiv:2505.18746},
+      url={https://arxiv.org/abs/2505.18746}
+}
+```
