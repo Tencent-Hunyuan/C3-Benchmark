@@ -13,6 +13,13 @@
 ![Example](./picture/first.png)
 
 
+## 🎆 News
+
+- This repo has moved to https://github.com/yupeijei1997/WildToolBench, Please check our latest progress there.
+
+- 2026.1.26 🎉🎉🎉 Our paper <a href="https://openreview.net/forum?id=yz7fL5vfpn">Benchmarking LLM Tool-Use in the Wild</a> is accepted by ICLR 2026!
+
+
 ## 📖 Overview
 
 Agents based on large language models leverage tools to modify environments, revolutionizing how AI interacts with the physical world. Unlike traditional NLP tasks that rely solely on historical dialogue for responses, these agents must consider more complex factors, such as inter-tool relationships, environmental feedback and previous decisions, when making choices.
