@@ -13,6 +13,13 @@
 ![Example](./picture/first.png)
 
 
+## 🎆 News
+
+- 这个仓库经过重构并被移动到： https://github.com/yupeijei1997/WildToolBench, 请在这里检查最新版本。
+
+- 2026.1.26 🎉🎉🎉 我们的论文 <a href="https://openreview.net/forum?id=yz7fL5vfpn">Benchmarking LLM Tool-Use in the Wild</a> 中稿 ICLR 2026!
+
+
 ## 📖 Overview
 
 基于大型语言模型的智能体借助工具来改造环境，这一方式彻底革新了人工智能与物理世界的交互模式。不同于仅依赖历史对话来生成回答的传统自然语言处理任务，这些智能体在做出选择时，必须考虑更为复杂的因素，例如工具间的相互关系、环境反馈以及过往决策等。
